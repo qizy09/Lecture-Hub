@@ -8,7 +8,7 @@
 * Associate particular slides or bullet points with custom notes, or media, such as pictures, videos, or audio
 
 ## Team
-Ziyang Qi, Alok Gupta, Tyler Vuong
+Ziyang Qi( @qizy09 ), Alok Gupta(alokg95), Tyler Vuong
 
 ## Project Site
 Current project website [link](https://github.com/qizy09/Lecture-Hub)
